@@ -1,0 +1,21 @@
+let fulLName = 'John Doe';
+let age = 22;
+let country = 'Bangladesh';
+let favoriteLanguage = 'JavaScript';
+let dreamJob = 'Full-Stack Developer';
+let yearsToGoal = 1;
+let isLearningJS = true;
+
+console.log('========================');
+console.log('      MY PROFILE');
+console.log('========================');
+console.log('\n');
+console.log('Name: '+fulLName);
+console.log("Age: "+age);
+console.log('Country: '+country);
+console.log('Favorite Language: '+favoriteLanguage);
+console.log('Dream Job: '+dreamJob);
+console.log('Years of Reach Goal: '+yearsToGoal);
+console.log('Learning JavaScript: '+isLearningJS);
+console.log('\n');
+console.log('========================');
